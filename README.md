@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# F1 Bets
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Node version: v20.11.1
 
 ## Available Scripts
 
