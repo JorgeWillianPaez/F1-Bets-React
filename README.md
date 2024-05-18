@@ -4,6 +4,6 @@ Node version: v20.11.1
 
 ## Demo
 
-![""]("./images/home.png")
+![Home]("./images/home.png")
 
-![""]("./images/chooseYourDriver.png")
+![Escolher piloto]("./images/chooseYourDriver.png")
