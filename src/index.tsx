@@ -5,6 +5,7 @@ import App from "./App";
 import Drivers from "./Routes/Drivers";
 import reportWebVitals from "./reportWebVitals";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import Race from "./Routes/Race";
 
 const router = createBrowserRouter([
   {
@@ -14,6 +15,10 @@ const router = createBrowserRouter([
   {
     path: "/drivers",
     element: <Drivers />,
+  },
+  {
+    path: "/race",
+    element: <Race />,
   },
 ]);
 

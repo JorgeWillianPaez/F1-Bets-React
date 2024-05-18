@@ -1,5 +1,5 @@
 export default function Race() {
   const bet = () => {};
 
-  return <></>;
+  return <div>RACE</div>;
 }
